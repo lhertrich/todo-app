@@ -1,5 +1,5 @@
 # Repository of Levin Hertrich #
-**Matr.Nr.:** 345 577 5 **Mail:** st166200@stud.uni-stuttgart.de
+**Mail:** st166200@stud.uni-stuttgart.de
 # Prerequisites #
 * Make sure at least Java JDK 17 is installed and configured. \
 * The application uses a Database, therefore it is necessary that MariaDB is installed with the following settings: 
